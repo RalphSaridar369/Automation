@@ -8,7 +8,7 @@ PATH ="C:\Program Files (x86)\chromedriver.exe"
 #insert the data below before running the program and insert your own Email and password below
 #where it's written 'test'
 
-emails=["ralphsaridar@hotmail.com"]
+emails=[""]
 title="test"
 message="hello and welcome"
 
